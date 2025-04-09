@@ -1,8 +1,5 @@
 # RestAPI for Creating QR Codes
 
-# Instructor Videos
-* [Rest API Project Overview](https://youtu.be/xEcBKSSXxhQ)
-
 # Install
 1. Clone
 2. Make virtual environment:  python3 -m venv venv
@@ -14,3 +11,6 @@
 8. Goto http://localhost/docs to view openapi spec documentation
 9. Click "authorize" input username: admin password: secret
 10. Test making,  retrieving, and deleting QR codes on the spec page. 
+
+<img width="928" alt="{4FCAB74B-632D-45C6-AD79-B4AD45783859}" src="https://github.com/user-attachments/assets/b67fc975-cb0b-4809-8786-f239c47924fb" />
+
